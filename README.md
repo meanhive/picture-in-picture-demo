@@ -2,4 +2,4 @@
 
 Add any video from your computer and play the video in Picture-in-Picture mode!
 
-[Check out the demo now!](https://ananyaneogi.github.io/picture-in-picture-demo/)
+[Check out the demo now!](https://meanhive.github.io/picture-in-picture-demo/)
